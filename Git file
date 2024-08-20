@@ -1,0 +1,3 @@
+git clone https://github.com/openai/whisper.git
+cd whisper
+pip install -r requirements.txt
