@@ -25,7 +25,7 @@ Before running the code, ensure you have the following dependencies installed:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone git@github.com:ayaansh-roy/voice_assistant_llm.git
+   git clone
 
 2. Install the dependencies using pip.
 
@@ -46,9 +46,6 @@ Before running the code, ensure you have the following dependencies installed:
 ## Notes
 - Ensure that your system's microphone is correctly configured and accessible by the script.
 - Make sure to handle exceptions and errors gracefully, especially during audio recording and transcription processes.
-
-## License
-- This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 - The AI model used in this project is based on faster_whisper.
